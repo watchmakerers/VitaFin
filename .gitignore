@@ -1,0 +1,9 @@
+build/
+*.vpk
+*.velf
+*.self
+tools/preview/.inc/
+tools/preview/.drive
+tools/preview/shots/
+__pycache__/
+*.pyc
