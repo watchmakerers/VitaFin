@@ -104,3 +104,9 @@ FreeType, Pillow and Noto Sans; text uses Noto Sans there instead of the Vita sy
 
 - HTTPS certificates aren't verified (homebrew has no CA store). LAN `http://` is recommended.
 - Sources above 720p are always transcoded by the server (the decoder is set up for 1280×720 max).
+
+## License
+
+VitaFin is released under the [MIT License](LICENSE).
+
+No Sony assets are included. The system UI sounds and fonts are read from the console's own firmware at runtime.
